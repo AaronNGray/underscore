@@ -21,14 +21,14 @@
     "docco": "*",
     "eslint": "^5.2.0",
     "gzip-size-cli": "^1.0.0",
-    "karma": "^2.0.5",
+    "karma": "^3.0.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-qunit": "~2.0.1",
     "karma-sauce-launcher": "^1.2.0",
     "nyc": "^13.0.1",
     "pretty-bytes-cli": "^1.0.0",
     "qunit": "^2.6.0",
-    "qunit-cli": "~0.2.0",
+    "qunit-cli": "git://github.com/AaronNGray/qunit-cli.git",
     "uglify-js": "3.3.21"
   },
   "scripts": {
